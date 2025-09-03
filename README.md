@@ -43,8 +43,8 @@ This feature parses a given URL into its components such as protocol, domain, pa
 1. Clone the repository:
    ```bash
    git clone https://github.com/darkworld-king/Web-Hunting-Tool.git
-2. cd WebHuntingTool
+2. cd Web-Hunting-Tool
 3. pip install -r requirements.txt
-4. python3 WebHunter.py 
+4. python3 webhunter.py
 ---
 
