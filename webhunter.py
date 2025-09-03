@@ -40,9 +40,9 @@ sleep(0.1)
 
 print(color.CYAN+"""
 -----------------------------------------------------------------------
-|||           Developer: CybVulnHunter                                  |||
-|||           Contact Instagram: @syed_muneeb_rehman                    |||
-              Linkedin: www.linkedin.com/in/syed-muneeb-shah-4b5424266  |||               
+|||           Developer: Dark World King                                |||
+|||           Contact Instagram: @dir.vickram                           |||
+              Linkedin: www.linkedin.com/in/vickram-d05                 |||               
 ----------------------------------------------------------------------        
 """)
 sleep(0.1)
